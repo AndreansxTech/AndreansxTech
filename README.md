@@ -1,5 +1,5 @@
 ## Hi there 
-# Im Michał aka. AndreansxTech. 
+## Im Michał aka. AndreansxTech. 
 Currently Im learning C++ 
 I really like to draw, however due to a lot of learning I can`t really draw a lot (I have not touched a pencil since the summer break).</b>
 But programming in C++ also brings me joy, and a hope for it to be my future job. Most of my free time I spend on learning or programming.
