@@ -8,5 +8,4 @@ I really like to draw, however due to a lot of learning I can`t really draw a lo
 But programming in C++ also brings me joy, and a hope for it to be my future job. Most of my free time I spend on studying for school or learning programming.
 If you want to contact me you can via Telegram. My name there is @Koliberekart</br>
 
-![Visitor Count](https://profile-counter.glitch.me/{AndreansxTech}/count.svg)</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech)](https://github.com/AndreansxTech/github-readme-stats)
