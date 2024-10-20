@@ -15,4 +15,4 @@ trying my hardest to become good in Math. Not gonna lie, It is definetly hard fo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=switch-kalkulator&theme=calm_pink)](https://github.com/AndreansxTech/switch-kalkulator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=triCalc&theme=calm_pink)](https://github.com/AndreansxTech/triCalc)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&layout=compact&theme=calm_pink)](https://github.com/AndreansxTech)
-<!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech)](https://github.com/AndreansxTech/github-readme-stats)
+<!---[![AndreansxTech GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech)](https://github.com/AndreansxTech/github-readme-stats)
