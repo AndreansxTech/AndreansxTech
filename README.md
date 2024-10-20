@@ -13,7 +13,7 @@ trying my hardest to become good in Math. Not gonna lie, It is definetly hard fo
 ## What i like doing
 </br>I really like programming as I hope that it will be my field of work in the future. I also like to draw and I absolutely love cars, especially hypercars as well as Japanese modified cars. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=switch-kalkulator&theme=calm_pink)](https://github.com/AndreansxTech/switch-kalkulator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=triCalc&theme=calm_pink)](https://github.com/AndreansxTech/triCalc)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&layout=compact&theme=calm_pink)](https://github.com/AndreansxTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=switch-kalkulator&theme=date_night)](https://github.com/AndreansxTech/switch-kalkulator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=triCalc&theme=date_night)](https://github.com/AndreansxTech/triCalc)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&layout=compact&theme=date_night)](https://github.com/AndreansxTech)
 <!---[![AndreansxTech GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech)](https://github.com/AndreansxTech/github-readme-stats)
