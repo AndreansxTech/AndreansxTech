@@ -1,5 +1,6 @@
 ## Hello there👋 Im AndreansxTech
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </br>Currently Im learning C++ 
 I really like to draw, however due to a lot of learning I can`t really draw a lot (I have not touched a pencil since the summer break).</b>
 But programming in C++ also brings me joy, and a hope for it to be my future job. Most of my free time I spend on studying for school or learning programming.
