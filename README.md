@@ -7,7 +7,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&link=web.telegram.org%2FKoliberekart">
 
 ## What am I currently learning?
-</br>Currently the programming langiages that I am learning are C++ as well as Pascal. Also, Im a
+</br>Currently the programming languages that I am learning are C++ as well as Pascal. Also, Im a
 trying my hardest to become good in Math. Not gonna lie, It is definetly hard for me.</br>
 ## What i like doing
 </br>I really like programming as I hope that it will be my field of work in the future. I also like to draw and I absolutely love cars, especially hypercars as well as Japanese modified cars. 
