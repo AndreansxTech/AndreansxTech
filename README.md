@@ -4,6 +4,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 <img alt="Static Badge" src="https://img.shields.io/badge/PASCAL-yellow?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&link=web.telegram.org%2FKoliberekart">
+
 ## What am I currently learning?
 </br>Currently the programming langiages that I am learning are C++ as well as Pascal. Also, Im a
 trying my hardest to become good in Math. Not gonna lie, It is definetly hard for me.</br>
