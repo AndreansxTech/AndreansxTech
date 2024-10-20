@@ -2,6 +2,7 @@
 # Hello there👋 Im AndreansxTech
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img alt="Static Badge" src="https://img.shields.io/badge/Code%3A%3Ablocks-white?style=for-the-badge&logo=Code%3A%3ABlocks">
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 <img alt="Static Badge" src="https://img.shields.io/badge/PASCAL-yellow?style=for-the-badge">
