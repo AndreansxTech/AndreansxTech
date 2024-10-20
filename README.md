@@ -9,4 +9,4 @@ But programming in C++ also brings me joy, and a hope for it to be my future job
 If you want to contact me you can via Telegram. My name there is @Koliberekart</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=switch-kalkulator)](https://github.com/AndreansxTech/github-readme-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&layout=compact)](https://github.com/AndreansxTech/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech)](https://github.com/AndreansxTech/github-readme-stats)
+<!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech)](https://github.com/AndreansxTech/github-readme-stats)
