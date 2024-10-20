@@ -3,6 +3,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<img alt="Static Badge" src="https://img.shields.io/badge/PASCAL-yellow?style=for-the-badge">
 </br>Currently Im learning C++ 
 I really like to draw, however due to a lot of learning I can`t really draw a lot (I have not touched a pencil since the summer break).</b>
 But programming in C++ also brings me joy, and a hope for it to be my future job. Most of my free time I spend on studying for school or learning programming.
