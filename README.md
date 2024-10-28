@@ -16,5 +16,6 @@ trying my hardest to become good in Math. Not gonna lie, It is definetly hard fo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=switch-kalkulator&theme=date_night)](https://github.com/AndreansxTech/switch-kalkulator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=triCalc&theme=date_night)](https://github.com/AndreansxTech/triCalc)</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=DELL-R710-Additional-graphics-card-install&theme=date_night)](https://github.com/AndreansxTech/DELL-R710-Additional-graphics-card-install)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&layout=compact&theme=date_night)](https://github.com/AndreansxTech)
 <!---[![AndreansxTech GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech)](https://github.com/AndreansxTech/github-readme-stats)
