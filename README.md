@@ -14,8 +14,8 @@ trying my hardest to become good in Math. Not gonna lie, It is definetly hard fo
 ## What i like doing
 </br>I really like programming as I hope that it will be my field of work in the future. I also like to draw and I absolutely love cars, especially hypercars as well as Japanese modified cars. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=switch-kalkulator&theme=nightowl)](https://github.com/AndreansxTech/switch-kalkulator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=triCalc&theme=nightowl)](https://github.com/AndreansxTech/triCalc)</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=DELL-R710-Additional-graphics-card-install&theme=nightowl)](https://github.com/AndreansxTech/DELL-R710-Additional-graphics-card-install)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&layout=compact&theme=nightowl)](https://github.com/AndreansxTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=switch-kalkulator&theme=moltack)](https://github.com/AndreansxTech/Ka1kulat0r)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=triCalc&theme=moltack)](https://github.com/AndreansxTech/triCalc)</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=DELL-R710-Additional-graphics-card-install&theme=moltack)](https://github.com/AndreansxTech/DELL-R710-Additional-graphics-card-install)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&layout=compact&theme=moltack)](https://github.com/AndreansxTech)
 <!---[![AndreansxTech GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech)](https://github.com/AndreansxTech/github-readme-stats)
