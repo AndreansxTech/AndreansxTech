@@ -12,7 +12,10 @@
 </br>Currently the programming languages that I am learning are C++ as well as Pascal. Also, Im a
 trying my hardest to become good in Math. Not gonna lie, It is definetly hard for me.</br>
 ## What i like doing
-</br>I really like programming as I hope that it will be my field of work in the future. I also like to draw and I absolutely love cars, especially hypercars as well as Japanese modified cars. 
+</br>I really like programming as I hope that it will be my field of work in the future. I also like to draw and I absolutely love cars, especially hypercars as well as Japanese modified cars. </br>
+
+# My hardware
+</br> For my main smartphone I use an iPhone 14 Pro. I also have two laptops and two servers. The first laptop is a Lenovo ThinkPad T450s and the second one is not really used by me. First one of my servers is a Dell PowerEdge R710 with two Xeon E5520 proccessors, 64 Gigs of ECC DDR3 memory and three hard drives which together come to 1,6 TB of storage. The R710 has Fedora Linux server installed on it, I plan to use it as a Proxmox server for hosting virtual CNC machines. The second server is a R610 and is not really in use at this time.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=switch-kalkulator&theme=rose_pine)](https://github.com/AndreansxTech/Ka1kulat0r)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=triCalc&theme=rose_pine)](https://github.com/AndreansxTech/triCalc)</br>
