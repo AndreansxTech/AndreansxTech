@@ -21,8 +21,8 @@ trying my hardest to become good in Math. Not gonna lie, It is definetly hard fo
 </br>As a part of my learning I upload my homework from school here. It is easier to share it just by copying the link to the repo or just telling someone my name on here. Below you can check those projects that are kinda fun, and also taught me something.</br></br>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=switch-kalkulator&theme=merko)](https://github.com/AndreansxTech/Ka1kulat0r)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=triCalc&theme=merko)](https://github.com/AndreansxTech/triCalc)</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=DELL-R710-Additional-graphics-card-install&theme=merko)](https://github.com/AndreansxTech/DELL-R710-Additional-graphics-card-install)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&layout=compact&theme=merko)](https://github.com/AndreansxTech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=switch-kalkulator&theme=tokyonight)](https://github.com/AndreansxTech/Ka1kulat0r)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=triCalc&theme=tokyonight)](https://github.com/AndreansxTech/triCalc)</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&repo=DELL-R710-Additional-graphics-card-install&theme=tokyonight)](https://github.com/AndreansxTech/DELL-R710-Additional-graphics-card-install)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&layout=compact&theme=tokyonight)](https://github.com/AndreansxTech)
 <!---[![AndreansxTech GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech)](https://github.com/AndreansxTech/github-readme-stats)
