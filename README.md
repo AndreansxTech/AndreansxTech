@@ -6,5 +6,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MikroTik-%23363636?style=for-the-badge&logo=Mikrotik)
 </br>
-## What I like
-Generally I like tech. Especially networking. I would love to work in network engineering in the future, so I am trying to gain some expereince by expreimenting in my home. Around the September of 2024 I started gaining interest in Homelabs. Figured that I have a big room so I could build one myself. I am hoping to learn more and more by doing practical experiments on my physical hardware. You can learn about my journey with my homelab in my <a href="https://github.com/AndreansxTech/Homelab-2025" target="_blank">repository</a>
+
+
+## My goals
+I like tech and general computer stuff. However I wouldn`t neccessarily want to do typical coding websites etc. I would love to work in network engineering in the future, and I am trying to gain practical experience by performing experience on my physical hardware. You can learn about my journey with my homelab by checking out my <a href="https://github.com/AndreansxTech/Homelab-2025" target="_blank">repository</a> dedicated to it. 
