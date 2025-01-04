@@ -10,7 +10,7 @@
 I love (past-tense) to draw. Never liked drawing with colors much, just a paper and a pencil. I like cats and I am a big fan of animated series such as Helluva Boss since it`s pilot dropped on YouTube. I like tech, especially networking which you can learn about below, and various Linux distros. Also I like cars and I listen to a lot of music on Spotify. Additionally I like some physical works like soldering electronics etc. I fixed a couple of Samsung phones, mostly their displays or cameras. I made some ESP32 circuits. I am also a fan of MikroTik hardware.
 </br>
 ## Reach out to me
-If you would like to contact me you can do so via my <a href="https://t.me/Andrtexh" target="_blank">Telegram profile</a> or you can check out my <a href="https://reddit.com](https://www.reddit.com/user/Acensxandrea/">Reddit profile</a>
+If you would like to contact me you can do so via my <a href="https://t.me/Andrtexh" target="_blank">Telegram profile</a> or you can check out my <a href="https://www.reddit.com/user/Acensxandrea/">Reddit profile</a>
 </br>
 
 ## My goals
