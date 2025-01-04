@@ -5,4 +5,6 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MikroTik-%23363636?style=for-the-badge&logo=Mikrotik)
-
+</br>
+## What I like
+Generally I like tech. Especially networking. I would love to work in network engineering in the future, so I am trying to gain some expereince by expreimenting in my home. Around the September of 2024 I started gaining interest in Homelabs. Figured that I have a big room so I could build one myself. I am hoping to learn more and more by doing practical experiments on my physical hardware. You can learn about my journey with my homelab in my <a href="https://github.com/AdnreansxTech/2025-homelab/">repository</a>
