@@ -21,3 +21,4 @@ I like tech and general computer stuff. However I wouldn`t neccessarily want to 
 </br>
 ## Repos you might want to take a look at
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=monokai&repo=Homelab-2025)](https://github.com/AndreansxTech/Homelab-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=monokai&repo=1lo-virtual-walk)](https://github.com/AndreansxTech/1lo-virtual-walk)
