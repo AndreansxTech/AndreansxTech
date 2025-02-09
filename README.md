@@ -20,5 +20,5 @@ If you would like to contact me you can do so via my <a href="https://t.me/Andrt
 I like tech and general computer stuff. However I wouldn`t neccessarily want to do typical coding websites etc. I would love to work in network engineering in the future, and I am trying to gain practical experience by performing experience on my physical hardware. You can learn about my journey with my homelab by checking out my <a href="https://github.com/AndreansxTech/Homelab-2025" target="_blank">repository</a> dedicated to it. 
 </br>
 ## Repos you might want to take a look at
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=monokai&repo=Homelab-2025)](https://github.com/AndreansxTech/Homelab-2025)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=monokai&repo=1lo-virtual-walk)](https://github.com/AndreansxTech/1lo-virtual-walk)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=monokai&repo=My-homelab)](https://github.com/AndreansxTech/My-homelab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=monokai&repo=Staszic360)](https://github.com/AndreansxTech/Staszic360)
