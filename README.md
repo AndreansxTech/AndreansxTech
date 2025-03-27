@@ -1,7 +1,7 @@
 
 
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andretexh)
+<!---![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)--->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andrtexh)
 ![MikroTik](https://img.shields.io/badge/MikroTik-%23363636?style=for-the-badge&logo=Mikrotik)
 ![Aspiring Network Engineer](https://img.shields.io/badge/Aspiring-Network%20Engineer-blueviolet?style=for-the-badge)
 
@@ -13,7 +13,7 @@
 
 ## About Me
 
-I’m a middle school student with a strong interest in computer networking, systems administration, and data center infrastructure. I’m currently developing my skills through hands-on experience with physical hardware in my homelab environment. I’m also actively learning the foundational concepts covered by the CompTIA Network+ certification as part of my broader exploration of IT and networking technologies.
+I’m a middle school student with a strong interest in computer networking, systems administration, and data center infrastructure. I’m currently developing my skills through hands-on experience with physical hardware in my homelab environment and watching courses regarding networking. I’m also actively learning the foundational concepts covered by the CompTIA Network+ certification as part of my broader exploration of IT and networking technologies.
 
 In addition to my technical pursuits, I’ve previously enjoyed pencil drawing, particularly more realistic takes on animated characters. I’m also interested in smartphones—especially Apple devices—and have experience with basic hardware repair on Samsung phones.
 
