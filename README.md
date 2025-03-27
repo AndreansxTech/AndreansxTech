@@ -29,7 +29,7 @@ You can follow my journey and projects by visiting my [homelab repository](https
 
 ## Get in Touch
 
-Feel free to reach out via [Telegram](https://t.me/Andretexh) or check out my [Reddit profile](https://www.reddit.com/user/Acensxandrea/).
+Feel free to reach out via [Telegram](https://t.me/Andrtexh) or check out my [Reddit profile](https://www.reddit.com/user/Acensxandrea/).
 
 </br>
 
