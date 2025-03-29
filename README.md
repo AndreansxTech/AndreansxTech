@@ -5,9 +5,9 @@
 ![MikroTik](https://img.shields.io/badge/MikroTik-%23363636?style=for-the-badge&logo=Mikrotik)
 ![Aspiring Network Engineer](https://img.shields.io/badge/Aspiring-Network%20Engineer-blueviolet?style=for-the-badge)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreansxTech&theme=merko&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreansxTech&theme=react&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech&show_icons=true&theme=merko&hide=stars&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech&show_icons=true&theme=react&hide=stars&count_private=true)
 
 </br>
 
@@ -35,5 +35,5 @@ Feel free to reach out via [Telegram](https://t.me/Andretexh) or check out my [R
 
 ## Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=merko&repo=My-homelab)](https://github.com/AndreansxTech/My-homelab)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=merko&repo=Staszic360)](https://github.com/AndreansxTech/Staszic360)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=react&repo=My-homelab)](https://github.com/AndreansxTech/My-homelab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=react&repo=Staszic360)](https://github.com/AndreansxTech/Staszic360)
