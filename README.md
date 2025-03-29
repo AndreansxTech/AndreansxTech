@@ -7,7 +7,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreansxTech&theme=redical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech&show_icons=true&theme=radical&hide=stars&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
 </br>
 
@@ -35,5 +35,4 @@ Feel free to reach out via [Telegram](https://t.me/Andrtexh) or check out my [Re
 
 ## Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=radical&repo=My-homelab&hide_border=true)](https://github.com/AndreansxTech/My-homelab)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=radical&repo=Staszic360&hide_border=true)](https://github.com/AndreansxTech/Staszic360)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=radical&repo=Staszic360&hide_border=true)](https://github.com/AndreansxTech/Staszic360)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=radical&repo=My-homelab&hide_border=true)](https://github.com/AndreansxTech/My-homelab)
