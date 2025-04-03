@@ -1,39 +1,66 @@
+# Hey Im Andreansx | Aspiring Network Engineer
+
+_Passionately focused on understanding networks deeply and practically_
 
 
-<!---![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)--->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andrtexh)
 ![MikroTik](https://img.shields.io/badge/MikroTik-%23363636?style=for-the-badge&logo=Mikrotik)
-![Aspiring Network Engineer](https://img.shields.io/badge/Aspiring-Network%20Engineer-blueviolet?style=for-the-badge)  
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/andreansxtech)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreansxTech&theme=nightowl&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech&show_icons=true&theme=nightowl&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech&show_icons=true&theme=merko&count_private=true&hide_border=true)
+---
 
-</br>
+## 🚀 About Me
 
-## About Me
+I'm a high school student determined to build a strong career in network engineering. My learning isn't just theoretical—it's deeply practical and hands-on, oriented toward real-world scenarios encountered by ISPs and data centers.
 
-I’m a high school student with a strong interest in computer networking, systems administration, and data center infrastructure. I’m currently developing my skills through hands-on experience with physical hardware in my homelab environment and watching courses regarding networking. I’m also actively learning the foundational concepts covered by the CompTIA Network+ certification as part of my broader exploration of IT and networking technologies.
+I take my homelab seriously—not as a hobby, but as a genuine learning environment. I simulate realistic scenarios: hardware failures, redundancy tests, and inter-VLAN routing. My goal isn't just to configure, but to deeply understand the underlying principles of how networks behave.
 
-In addition to my technical pursuits, I’ve previously enjoyed pencil drawing, particularly more realistic takes on animated characters. I’m also interested in smartphones—especially Apple devices—and have experience with basic hardware repair on Samsung phones.
+---
 
-</br>
+## 🖥️ My Networking Lab
 
-## Career Goals
+My lab environment isn't designed to look pretty—it's optimized for learning. Devices get reset, configurations regularly change, and documentation is key:
 
-My long-term goal is to work professionally in network engineering. I’m particularly interested in routing, switching, and scalable network infrastructure. To prepare for this path, I’m focusing on building practical experience and deepening my theoretical knowledge.
+- **Routers & Switches:** MikroTik CCR2004-1G-12S+2XS, CRS326-24S+2Q+RM, Brocade FastIron LS648-STK
+- **Servers:** Dell PowerEdge R610, R710 for Linux networking tools
 
-You can follow my journey and projects by visiting my [homelab repository](https://github.com/AndreansxTech/routing-in-the-stars).
+Every device and configuration serves a purpose—helping me learn and test new concepts, protocols, and troubleshooting methods.
 
-</br>
+---
 
-## Get in Touch
+## 🎯 Long-term Vision
 
-Feel free to reach out via [Telegram](https://t.me/Andrtexh) or check out my [Reddit profile](https://www.reddit.com/user/Acensxandrea/).
+I started early, and I'm determined to leverage this head-start effectively. My aim is to become the kind of network engineer you trust with critical infrastructure—someone who doesn't just "configure," but fully understands the impact of every decision.
 
-</br>
+I'm particularly interested in:
+- ISP backbone and advanced routing (OSPF, BGP, MPLS)
+- Data center networking: redundancy, failover, load balancing
+- Deep, foundational understanding of network operations
 
-## Featured Projects
+I document everything—not just successes but especially failures—so I can clearly track what I've learned and what needs deeper exploration.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=nightowl&repo=Staszic360&hide_border=true)](https://github.com/AndreansxTech/Staszic360)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=nightowl&repo=routing-in-the-stars&hide_border=true)](https://github.com/AndreansxTech/My-homelab)
+---
+## 📚 Learning & Certification Path
+
+I plan to start my certification journey with CompTIA Network+, then move on to MikroTik certifications (MTCNA and MTCRE), and eventually pursue the Cisco CCNA certification. My future educational goal is a Bachelor's degree in Computer Network Engineering.
+
+---
+
+## 🛠️ Lab & Projects
+
+Check out my primary networking lab repository:
+- **[routing-in-the-stars](https://github.com/AndreansxTech/routing-in-the-stars)** – Hands-on networking scenarios, protocol testing, and detailed documentation </br>
+- **[Staszic360](https://github.com/AndreansxTech/Staszic360)** - Virutal tour of my high school
+---
+
+## 📬 Let's Connect
+
+Feel free to reach out to discuss networking topics, lab setups, or educational paths:
+
+- **Telegram:** [@Andrtexh](https://t.me/Andrtexh)
+- **Reddit:** [u/Acensxandrea](https://www.reddit.com/user/Acensxandrea/)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreansxTech&theme=merko&hide_border=true)
+
