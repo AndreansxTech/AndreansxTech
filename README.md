@@ -24,7 +24,7 @@ In addition to my technical pursuits, I’ve previously enjoyed pencil drawing, 
 
 My long-term goal is to work professionally in network engineering. I’m particularly interested in routing, switching, and scalable network infrastructure. To prepare for this path, I’m focusing on building practical experience and deepening my theoretical knowledge.
 
-You can follow my journey and projects by visiting my [homelab repository](https://github.com/AndreansxTech/My-homelab).
+You can follow my journey and projects by visiting my [homelab repository](https://github.com/AndreansxTech/routing-in-the-stars).
 
 </br>
 
@@ -36,4 +36,4 @@ Feel free to reach out via [Telegram](https://t.me/Andrtexh) or check out my [Re
 
 ## Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=nightowl&repo=Staszic360&hide_border=true)](https://github.com/AndreansxTech/Staszic360)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=nightowl&repo=My-homelab&hide_border=true)](https://github.com/AndreansxTech/My-homelab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=nightowl&repo=Staszic360&hide_border=true)](https://github.com/AndreansxTech/Staszic360)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreansxTech&theme=nightowl&repo=routing-in-the-stars&hide_border=true)](https://github.com/AndreansxTech/My-homelab)
