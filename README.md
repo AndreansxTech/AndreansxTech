@@ -3,7 +3,8 @@
 <!---![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)--->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andrtexh)
 ![MikroTik](https://img.shields.io/badge/MikroTik-%23363636?style=for-the-badge&logo=Mikrotik)
-![Aspiring Network Engineer](https://img.shields.io/badge/Aspiring-Network%20Engineer-blueviolet?style=for-the-badge)
+![Aspiring Network Engineer](https://img.shields.io/badge/Aspiring-Network%20Engineer-blueviolet?style=for-the-badge)  
+[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/andreansxtech)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreansxTech&theme=nightowl&hide_border=true)
 
