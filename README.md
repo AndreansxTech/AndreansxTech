@@ -1,14 +1,14 @@
-# Hey Im Andreansx | Aspiring Network Engineer
+# Hey there
+# Im Andreansx, an Aspiring Network Engineer
 
 _Passionately focused on understanding networks deeply and practically_
 
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andrtexh)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-%23363636?style=for-the-badge&logo=Mikrotik)
-[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/portfolio/andreansxtech)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andrtexh)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech&show_icons=true&theme=merko&count_private=true&hide_border=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech&show_icons=true&theme=merko&count_private=true&hide_border=true)--->
 ---
 
 ## 🚀 About Me
