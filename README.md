@@ -55,8 +55,10 @@ My future educational goal is a Bachelor's degree in Computer Network Engineerin
 
 ## 🛠️ Projects
 
-Other projects I'm working on:
+Other projects I'm most recently working on:
 - **[Staszic360](https://github.com/AndreansxTech/Staszic360)** – A virtual tour of my high school, created to develop practical skills in 360° imaging and interactive web environments.
+- **[PaperMC-on-DO](https://github.com/AndreansxTech/PaperMC-on-DO)** - Documentation of PaperMC server hosted on **DigitalOcean**, managed by me, created for my brother.
+- **[GMK67-Config](https://github.com/AndreansxTech/GMK67-Config)** - Color schemes for my custom build keyboard based on the GMK67 ZUOYA PCB
 
 ---
 
