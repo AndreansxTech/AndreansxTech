@@ -14,13 +14,13 @@ _Passionately focused on understanding networks deeply and practically_
 
 I'm a high school student determined to build a strong career in network engineering. My learning isn't just theoretical—it's deeply practical and hands-on, oriented toward real-world scenarios encountered by ISPs and data centers.
 
-I take my homelab seriously—not as a hobby, but as a genuine learning environment. I simulate realistic scenarios: hardware failures, redundancy tests, and inter-VLAN routing. My goal isn't just to configure, but to deeply understand the underlying principles of how networks behave.
+I take my homelab seriously—not only as a hobby, but also as a genuine learning environment. I simulate realistic scenarios: hardware failures, redundancy tests, and inter-VLAN routing. My goal isn't just to configure, but to deeply understand the underlying principles of how networks behave.
 
 ---
 
 ## 🖥️ My Networking Lab
 
-My lab environment isn't designed to look pretty—it's optimized for learning. Devices get reset, configurations regularly change, and documentation is key:
+My lab environment isn't only designed to look pretty—it's optimized for learning. Devices get reset, configurations regularly change, and documentation is key:
 
 - **Routers & Switches:** MikroTik CCR2004-1G-12S+2XS, CRS326-24S+2Q+RM, Brocade FastIron LS648-STK
 - **Servers:** Dell PowerEdge R610, R710 running Linux networking tools
