@@ -7,7 +7,7 @@ _Passionately focused on understanding networks deeply and practically_
 ![MikroTik](https://img.shields.io/badge/MikroTik-%23363636?style=for-the-badge&logo=Mikrotik)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Andrtexh)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreansxTech&show_icons=true&theme=shades-of-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&langs_count=8&theme=shades-of-purple&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&langs_count=6&theme=dark&layout=compact&border_color=2b59ff&title_color=2b59ff)
 ---
 
 ## 🚀 About Me
