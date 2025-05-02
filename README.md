@@ -5,6 +5,7 @@ _Passionately focused on understanding networks deeply and practically_
 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-%23363636?style=for-the-badge&logo=Mikrotik)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 [![Static Badge](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/Andrtexh)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreansxTech&langs_count=6&theme=dark&layout=compact&border_color=2b59ff&title_color=2b59ff)
