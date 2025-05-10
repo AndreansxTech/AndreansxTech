@@ -1,6 +1,5 @@
-![title](./logo.png)
-
 <div align="center">
+<img src="./logo.png" width="70%">
 <h1>Hey there</h1>
 
 # Readme under construction for now
